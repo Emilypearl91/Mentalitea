@@ -10,3 +10,4 @@ I'm excited to embark on this challenge and share the process and the finished p
 
 [figma design file](https://www.figma.com/design/Y2yWT32FuSRYCGPaceXZac/mentalitea?node-id=0-1&t=AcRsXj6gD0VBjZDU-1)
 [figjam board](https://www.figma.com/board/WH9AtOBf5hm2PXAtaZX2jX/mentalitea?node-id=0-1&t=puPE7DzH8EWmH6h2-1)
+[powerpoint brand presentation](https://1drv.ms/p/s!AoOzIW3QA4CIb2pDRHxfX_LNXmo)
