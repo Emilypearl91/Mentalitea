@@ -1,7 +1,7 @@
 import { Link, useMatch, useResolvedPath } from "react-router-dom"
 export default function Navbar() {
   return <nav className="nav">
-   <Link to="/" className="site-title"><img src="src/assets/mentalitea-main-logo.svg" alt="multicolor main logo for mentalitea brand with leaf design" /></Link>
+   <Link to="/" className="site-title"><img src="src/assets/mentalitea-main-logo.svg" alt="multicolor main logo for mentalitea brand with leaf design" className="brand-img" /></Link>
     <ul className="pages">
       <li><Link to="/shop">shop</Link></li>
       <li><Link to="/explore">explore</Link></li>

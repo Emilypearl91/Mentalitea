@@ -49,6 +49,25 @@ li{
   flex-direction: row;
   
  }
- img{
+ .brand-img{
   max-width: 200px; 
  }
+.about-text, p{
+  max-width: 600px;
+  padding: .5rem;
+  margin: auto;
+
+  text-align: left;
+}
+.about-text, h1{
+  text-align: center;
+}
+.story-image {
+  max-width: 400px;
+  margin: auto;
+}
+.about-section{
+  display: flex;
+  flex-direction: row;
+  margin: 3rem;
+}

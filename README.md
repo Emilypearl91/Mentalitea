@@ -15,3 +15,6 @@ I'm excited to embark on this challenge and share the process and the finished p
 ### Attributions :
 
 [Web dev Simplified](https://www.youtube.com/watch?v=SLfhMt5OUPI&t=63s) creating a navbar with react router
+
+[jars of tea by Alice Pasqual](https://unsplash.com/photos/six-condiments-on-jars-2yZxFxn1938)
+[tea field by Yasasi Rajapakse](https://unsplash.com/photos/green-leafed-plant-poadBPsShxg)
