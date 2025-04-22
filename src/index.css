@@ -71,3 +71,19 @@ li{
   flex-direction: row;
   margin: 3rem;
 }
+footer{
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+ 
+  max-height: 600px;
+  min-width: 100vh;
+  background-color:#333533;
+
+  align-items: left;
+}
+.copyright{
+  color: #E8A15F;
+ 
+}

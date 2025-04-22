@@ -1,4 +1,5 @@
 import Navbar from './components/Navbar'
+import Footer from './components/Footer'
 import './App.css'
 import About from './pages/About'
 import Explore from './pages/Explore'
@@ -21,6 +22,7 @@ function App() {
       <Route path='shop' element={<Shop/>}/>
     </Routes>
    </div>
+   <Footer/>
     </>
   )
 }
