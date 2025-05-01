@@ -6,6 +6,7 @@ import Explore from './pages/Explore'
 import Shop from './pages/Shop'
 import Home from './pages/Home'
 import { Route, Routes } from 'react-router-dom'
+import Sipping from './pages/Sipping'
 function App() {
 
 
@@ -19,7 +20,9 @@ function App() {
       <Route path='/' element={<Home/>}/>
       <Route path='/about' element={<About/>}/>
       <Route path='/explore' element={<Explore/>}/>
-      <Route path='shop' element={<Shop/>}/>
+      <Route path='/shop' element={<Shop/>}/>
+      {/* blog posts */}
+      <Route path='/sipping' element={<Sipping/>}/>
     </Routes>
    </div>
    <Footer/>
