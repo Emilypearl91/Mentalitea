@@ -7,6 +7,7 @@ import Shop from './pages/Shop'
 import Home from './pages/Home'
 import { Route, Routes } from 'react-router-dom'
 import Sipping from './pages/Sipping'
+import Mocktails from './pages/Mocktails'
 function App() {
 
 
@@ -22,6 +23,9 @@ function App() {
       <Route path='/explore' element={<Explore/>}/>
       <Route path='/shop' element={<Shop/>}/>
       {/* blog posts */}
+      <Route path='/sipping' element={<Sipping/>}/>
+      <Route path='/mocktails' element={<Mocktails/>}/>
+      <Route path='/sipping' element={<Sipping/>}/>
       <Route path='/sipping' element={<Sipping/>}/>
     </Routes>
    </div>
